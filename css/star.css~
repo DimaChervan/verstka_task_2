@@ -9,7 +9,7 @@
 }
 
 .main:hover .star:hover, .main:hover .star:hover ~ .star, .radio:checked ~ .star {
-    background-position: -9px 20px;
+    background-position: -6px 20px;
 }
 
 .star, .main:hover .star {
